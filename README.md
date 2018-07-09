@@ -16,4 +16,4 @@ Requires:
 
 Here is a screenshot of VhdCopyPascal:
 
-![Settings Window](https://raw.github.com/jasc2v8/vhdcopypascal/master/res/vhdcopypascalscreen.png)
+![Settings Window](https://github.com/jasc2v8/VhdCopyPascal/blob/master/res/VhdCopyPascalScreen.png)
